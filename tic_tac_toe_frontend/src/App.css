@@ -8,6 +8,11 @@
   --border-color: #e9ecef;
   --button-bg: #007bff;
   --button-text: #ffffff;
+
+  /* Tic Tac Toe custom palette */
+  --ttt-accent: #FFC107;
+  --ttt-primary: #2196F3;
+  --ttt-secondary: #4CAF50;
 }
 
 [data-theme="dark"] {
